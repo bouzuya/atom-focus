@@ -1,0 +1,12 @@
+{
+  "name": "bouzuya-focus",
+  "main": "./lib/focus",
+  "version": "0.1.0",
+  "description": "Focus workspace view in Atom",
+  "activationEvents": ["bouzuya-focus:focus-workspace-view"],
+  "repository": "https://github.com/bouzuya/atom-focus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
